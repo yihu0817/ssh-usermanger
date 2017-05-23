@@ -1,0 +1,7 @@
+[DEBUG] 2017-05-23: 21:07:36 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>
+[DEBUG] 2017-05-23: 21:07:57 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>
+[INFO] 2017-05-23: 21:09:02 com.ittx.usermanager.dao.impl.UserDaoImpl.getTotal(UserDaoImpl.java:183) :  sql :SELECT count(*) FROM user where 1=1 
+[DEBUG] 2017-05-23: 21:12:23 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>
+[DEBUG] 2017-05-23: 21:22:24 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>
+[DEBUG] 2017-05-23: 21:22:29 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>
+[DEBUG] 2017-05-23: 21:48:35 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>

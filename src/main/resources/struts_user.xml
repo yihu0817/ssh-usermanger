@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+	"-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+	"http://struts.apache.org/dtds/struts-2.5.dtd">
+
+<struts>
+	<!--   http://localhost:8080/demo/user/user_add -->
+	<package name="user" namespace="/" extends="struts-default">
+		<global-allowed-methods>regex:.*</global-allowed-methods>
+
+		<action name="user_*" class="com.ittx.usermanager.action.UserAction" method="{1}">
+			<result name="success" type="redirect">/user_listUser</result>
+			<result name="list" type="dispatcher">/jsp/user/user_list.jsp</result>
+			<result name="update">jsp/user/user_add.jsp</result>
+		</action>
+
+	</package>
+
+</struts>
+
+
