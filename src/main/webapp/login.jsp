@@ -8,10 +8,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 <meta name="renderer" content="webkit">
 <title>登录</title>
-<link rel="stylesheet" href="${pageContext.request.contextPath }/css/pintuer.css">
-<link rel="stylesheet" href="${pageContext.request.contextPath }/css/admin.css">
-<script src="${pageContext.request.contextPath }/js/jquery.js"></script>
-<script src="${pageContext.request.contextPath }/js/pintuer.js"></script>
+<link rel="stylesheet" href="${pageContext.request.contextPath }/static/css/pintuer.css">
+<link rel="stylesheet" href="${pageContext.request.contextPath }/static/css/admin.css">
+<script src="${pageContext.request.contextPath }/static/js/jquery.js"></script>
+<script src="${pageContext.request.contextPath }/static/js/pintuer.js"></script>
 <script>
     /**
     	1、self:当前窗口对象（如果是在iframe里，则为该框架的窗口对象）

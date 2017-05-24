@@ -5,9 +5,9 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>后台管理中心</title>  
-    <link rel="stylesheet" href="css/pintuer.css">
-    <link rel="stylesheet" href="css/admin.css">
-    <script src="js/jquery.js"></script>   
+    <link rel="stylesheet" href="${pageContext.request.contextPath }/static/css/pintuer.css">
+    <link rel="stylesheet" href="${pageContext.request.contextPath }/static/css/admin.css">
+    <script src="${pageContext.request.contextPath }/static/js/jquery.js"></script>   
 	<script type="text/javascript">
 		$(function(){
 		  $(".leftnav h2").click(function(){
@@ -26,7 +26,7 @@
 
 	<div class="header bg-main">
 	  <div class="logo margin-big-left fadein-top">
-		<h1><img src="images/y.jpg" class="radius-circle rotate-hover" height="50" alt="" />后台管理中心</h1>
+		<h1><img src="${pageContext.request.contextPath }/static/images/y.jpg" class="radius-circle rotate-hover" height="50" alt="" />后台管理中心</h1>
 	  </div>
 	  <div class="head-l"><a class="button button-little bg-red" href="${pageContext.request.contextPath }/logout"><span class="icon-power-off"></span> 退出登录</a> </div>
 	</div>

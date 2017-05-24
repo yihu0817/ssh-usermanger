@@ -2,12 +2,13 @@
 <!DOCTYPE struts PUBLIC
 	"-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
 	"http://struts.apache.org/dtds/struts-2.5.dtd">
-	
+
 <struts>
-	
+	<constant name="struts.action.excludePattern" value="/static/.*?" />
+	<!-- /static 为存放静态资源的路径，意为不拦截对此文件夹下文件的请求 -->
 	<include file="struts_user.xml"></include>
 	<include file="struts_login.xml"></include>
-	
+
 </struts>
 
 

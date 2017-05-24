@@ -1,7 +1,26 @@
-[DEBUG] 2017-05-23: 21:07:36 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>
-[DEBUG] 2017-05-23: 21:07:57 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>
-[INFO] 2017-05-23: 21:09:02 com.ittx.usermanager.dao.impl.UserDaoImpl.getTotal(UserDaoImpl.java:183) :  sql :SELECT count(*) FROM user where 1=1 
-[DEBUG] 2017-05-23: 21:12:23 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>
-[DEBUG] 2017-05-23: 21:22:24 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>
-[DEBUG] 2017-05-23: 21:22:29 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>
-[DEBUG] 2017-05-23: 21:48:35 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>
+[DEBUG] 2017-05-24: 20:18:45 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>
+[DEBUG] 2017-05-24: 20:23:17 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>
+[DEBUG] 2017-05-24: 20:23:20 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>
+[INFO] 2017-05-24: 20:23:28 com.ittx.usermanager.dao.impl.UserDaoImpl.getTotal(UserDaoImpl.java:183) :  sql :SELECT count(*) FROM user where 1=1 
+[DEBUG] 2017-05-24: 20:23:30 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>
+[DEBUG] 2017-05-24: 20:24:27 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>
+[DEBUG] 2017-05-24: 20:24:30 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>
+[DEBUG] 2017-05-24: 20:25:11 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>
+[DEBUG] 2017-05-24: 20:30:07 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>
+[DEBUG] 2017-05-24: 20:32:30 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>
+[DEBUG] 2017-05-24: 20:32:31 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>
+[DEBUG] 2017-05-24: 20:32:33 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>
+[DEBUG] 2017-05-24: 20:32:33 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>
+[DEBUG] 2017-05-24: 20:32:34 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>
+[DEBUG] 2017-05-24: 20:32:36 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>
+[DEBUG] 2017-05-24: 20:32:39 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>
+[DEBUG] 2017-05-24: 20:33:53 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>
+[DEBUG] 2017-05-24: 20:33:56 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>
+[DEBUG] 2017-05-24: 20:35:58 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>
+[DEBUG] 2017-05-24: 20:36:01 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>
+[DEBUG] 2017-05-24: 20:36:01 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>
+[DEBUG] 2017-05-24: 20:36:01 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>
+[DEBUG] 2017-05-24: 20:36:02 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>
+[DEBUG] 2017-05-24: 20:39:16 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>
+[DEBUG] 2017-05-24: 20:41:43 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>
+[DEBUG] 2017-05-24: 20:44:25 com.ittx.usermanager.action.LoginAction.validate(LoginAction.java:39) :  validte >>>>
